@@ -123,11 +123,5 @@ For details, see [CONTRIBUTING.md](./CONTRIBUTING.md) (if present).
 
 ---
 
-## 10. License
 
-[MIT License](./LICENSE)
-```
-This repository is meant as a free study guide. Use, adapt, and share!
-
----
 
