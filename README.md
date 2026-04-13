@@ -131,4 +131,3 @@ This repository is meant as a free study guide. Use, adapt, and share!
 
 ---
 
-*Made with ❤️ by the FUTURA-X community.*
